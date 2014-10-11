@@ -1,0 +1,20 @@
+#pageContent {
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+#heading {
+  left: 0;
+  font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: normal;
+  font-size: 48px;
+  font-weight: 300;
+  margin: 0px;
+}
+#subHeading {
+  font-family: 'Gotham A','Gotham B',proxima-nova,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
